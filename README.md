@@ -1,5 +1,8 @@
 # flutter_wave_animation
 
+![Screenshot_1628595158](https://user-images.githubusercontent.com/71002261/128860450-a2b2cf75-4e4f-4b58-a0ff-9b0badcd85aa.png)
+
+
 A new Flutter project.
 
 ## Getting Started
